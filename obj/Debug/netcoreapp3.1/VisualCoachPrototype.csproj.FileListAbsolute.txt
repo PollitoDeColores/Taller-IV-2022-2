@@ -14,3 +14,12 @@ E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\VisualCoachPrototype\ob
 E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\VisualCoachPrototype\obj\Debug\netcoreapp3.1\VisualCoachPrototype.dll
 E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\VisualCoachPrototype\obj\Debug\netcoreapp3.1\VisualCoachPrototype.pdb
 E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\VisualCoachPrototype\obj\Debug\netcoreapp3.1\VisualCoachPrototype.genruntimeconfig.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.csproj.AssemblyReference.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.Form1.resources
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.csproj.GenerateResource.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.AssemblyInfoInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.AssemblyInfo.cs
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.csproj.CoreCompileInputs.cache
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.dll
+E:\MSI\PROJECT. Myself\Material de Estudio\2022-2\Taller\Taller-IV-2022-2\obj\Debug\netcoreapp3.1\VisualCoachPrototype.pdb

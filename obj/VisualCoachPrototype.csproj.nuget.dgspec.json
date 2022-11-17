@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\VisualCoachPrototype\\VisualCoachPrototype.csproj": {}
+    "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\Taller-IV-2022-2\\VisualCoachPrototype.csproj": {}
   },
   "projects": {
-    "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\VisualCoachPrototype\\VisualCoachPrototype.csproj": {
+    "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\Taller-IV-2022-2\\VisualCoachPrototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\VisualCoachPrototype\\VisualCoachPrototype.csproj",
+        "projectUniqueName": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\Taller-IV-2022-2\\VisualCoachPrototype.csproj",
         "projectName": "VisualCoachPrototype",
-        "projectPath": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\VisualCoachPrototype\\VisualCoachPrototype.csproj",
+        "projectPath": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\Taller-IV-2022-2\\VisualCoachPrototype.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\VisualCoachPrototype\\obj\\",
+        "outputPath": "E:\\MSI\\PROJECT. Myself\\Material de Estudio\\2022-2\\Taller\\Taller-IV-2022-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -134,7 +134,6 @@ namespace VisualCoachPrototype
             this.LeftWarning.Size = new System.Drawing.Size(341, 638);
             this.LeftWarning.TabIndex = 6;
             this.LeftWarning.TabStop = false;
-            this.LeftWarning.Click += new System.EventHandler(this.LeftWarning_Click);
             // 
             // RightWarning
             // 
@@ -188,7 +187,6 @@ namespace VisualCoachPrototype
             this.WOTWarning.Size = new System.Drawing.Size(685, 285);
             this.WOTWarning.TabIndex = 11;
             this.WOTWarning.TabStop = false;
-            this.WOTWarning.Click += new System.EventHandler(this.WOTWarning_Click);
             // 
             // button1
             // 
